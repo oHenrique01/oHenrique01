@@ -34,14 +34,18 @@ I'm a developer in training, passionate about logic and problem-solving. Current
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=oHenrique01&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oHenrique01&layout=compact&theme=tokyonight" />
-</p>
+<div align="rigth">
+  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=oHenrique01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+  <br />
+
+  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=oHenrique01&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+</div>
 
 ---
-
+<div align="center">
 🤝 Let's Connect
 
 <a href="https://www.linkedin.com/in/henriqueliraspedro">LinkedIn</a> • 
 <a href="mailto:henriquelira.sp@gmail.com">Email</a>
+</div>
