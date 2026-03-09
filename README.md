@@ -3,7 +3,7 @@
 🚀 **Software Development Student | Aspiring JavaScript & Node.js Developer**
 
 ## 👨‍💻 About Me
-I'm a developer in training, passionate about logic and problem-solving. Currently, I'm building a solid foundation in both Front-end and Back-end development, focusing on writing clean and well-structured code.
+I'm a developer in training, currently building a solid foundation in JavaScript through web projects and integrations. I focus on strengthening problem-solving skills and writing clean, well-structured code.
 
 🎓 Education: Analysis and Systems Development (Graduation: July 2027)  
 💡 Interests: Clean Code, Algorithms, Web Development, and Problem Solving  
